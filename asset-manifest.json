@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minReactSida/static/css/main.073c9b0a.css",
+    "main.js": "/minReactSida/static/js/main.0f5b7d52.js",
+    "static/js/787.ceea7f90.chunk.js": "/minReactSida/static/js/787.ceea7f90.chunk.js",
+    "index.html": "/minReactSida/index.html",
+    "main.073c9b0a.css.map": "/minReactSida/static/css/main.073c9b0a.css.map",
+    "main.0f5b7d52.js.map": "/minReactSida/static/js/main.0f5b7d52.js.map",
+    "787.ceea7f90.chunk.js.map": "/minReactSida/static/js/787.ceea7f90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0f5b7d52.js"
+  ]
+}
